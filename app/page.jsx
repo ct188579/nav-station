@@ -11,7 +11,7 @@ const tools = [
     title: 'ctblog',
     tag: '我的项目',
     description: '我的博客...',
-    url: 'https://www.ctblog.top'
+    url: 'https://ctblog.top'
   },
   {
     id: '2',
@@ -196,6 +196,94 @@ const tools = [
     tag: 'AI生产力',
     description: '一个AI驱动的聊天平台，提供智能对话功能。',
     url: 'https://chat.deepseek.com/'
+  },
+  {
+    id: '25',
+    icon: 'https://cdn.oaistatic.com/assets/favicon-32x32-p4ktpm1x.webp',
+    title: ' ChatGPT',
+    tag: 'AI生产力',
+    description: '由OpenAI开发的ChatGPT',
+    url: 'https://chatgpt.com/'
+  },
+  {
+    id: '26',
+    icon: 'https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png',
+    title: 'GitHub',
+    tag: '实用工具',
+    description: '全球最大的代码托管网站',
+    url: 'https://github.com/'
+  },
+  {
+    id: '27',
+    icon: 'https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png',
+    title: 'GitHub',
+    tag: '实用工具',
+    description: '全球最大的代码托管网站',
+    url: 'https://github.com/'
+  },
+  {
+    id: '28',
+    icon: 'https://vercel.com/favicon.ico',
+    title: 'Vercel',
+    tag: '实用工具',
+    description: '免费部署前端项目',
+    url: 'https://vercel.com/'
+  },
+  {
+    id: '29',
+    icon: 'https://fanyi.baidu.com/favicon.ico',
+    title: '百度翻译',
+    tag: '实用工具',
+    description: '强大的语言翻译网站',
+    url: 'https://fanyi.baidu.com/mtpe-individual/multimodal#/'
+  },
+  {
+    id: '30',
+    icon: 'https://vercel.com/favicon.ico',
+    title: 'Vercel',
+    tag: '实用工具',
+    description: '免费部署前端项目',
+    url: 'https://vercel.com/'
+  },
+  {
+    id: '31',
+    icon: 'https://www.qijishow.com/images/logo.png',
+    title: '奇迹秀',
+    tag: '实用工具',
+    description: '设计相关的软件资源',
+    url: 'https://www.qijishow.com/'
+  },
+  {
+    id: '32',
+    icon: 'http://b.topanku.com/favicon.ico',
+    title: '百度网盘会员',
+    tag: '实用工具',
+    description: '百度网盘会员3元一天',
+    url: 'http://b.topanku.com/'
+  },
+  {
+    id: '33',
+    icon: 'https://zhutix.com/favicon.ico',
+    title: '致美化',
+    tag: '实用工具',
+    description: '视觉美化研究平台',
+    url: 'https://zhutix.com/'
+  },
+  {
+    id: '34',
+    icon: 'https://nextjs.org/favicon.ico',
+    title: 'Next.js',
+    tag: '前端工具',
+    description: 'Next.js官方网站',
+    url: 'https://nextjs.org/'
+  },
+  {
+    id: '35',
+    icon: 'https://www.4kvm.pro/favicon.ico',
+    title: '4K影视美剧',
+    tag: '实用工具',
+    description: '美剧的天堂',
+    url: 'https://www.4kvm.pro/'
   }
 
 
