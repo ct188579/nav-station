@@ -212,17 +212,9 @@ const tools = [
     tag: '实用工具',
     description: '全球最大的代码托管网站',
     url: 'https://github.com/'
-  },
+  }
   {
     id: '27',
-    icon: 'https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png',
-    title: 'GitHub',
-    tag: '实用工具',
-    description: '全球最大的代码托管网站',
-    url: 'https://github.com/'
-  },
-  {
-    id: '28',
     icon: 'https://vercel.com/favicon.ico',
     title: 'Vercel',
     tag: '实用工具',
@@ -230,7 +222,7 @@ const tools = [
     url: 'https://vercel.com/'
   },
   {
-    id: '29',
+    id: '28',
     icon: 'https://fanyi.baidu.com/favicon.ico',
     title: '百度翻译',
     tag: '实用工具',
@@ -238,7 +230,7 @@ const tools = [
     url: 'https://fanyi.baidu.com/mtpe-individual/multimodal#/'
   },
   {
-    id: '30',
+    id: '29',
     icon: 'https://vercel.com/favicon.ico',
     title: 'Vercel',
     tag: '实用工具',
@@ -246,7 +238,7 @@ const tools = [
     url: 'https://vercel.com/'
   },
   {
-    id: '31',
+    id: '30',
     icon: 'https://www.qijishow.com/images/logo.png',
     title: '奇迹秀',
     tag: '实用工具',
@@ -254,15 +246,15 @@ const tools = [
     url: 'https://www.qijishow.com/'
   },
   {
-    id: '32',
-    icon: 'http://b.topanku.com/favicon.ico',
+    id: '31',
+    icon: 'https://ctblog.top/favicon.ico',
     title: '百度网盘会员',
     tag: '实用工具',
     description: '百度网盘会员3元一天',
     url: 'http://b.topanku.com/'
   },
   {
-    id: '33',
+    id: '32',
     icon: 'https://zhutix.com/favicon.ico',
     title: '致美化',
     tag: '实用工具',
@@ -270,7 +262,7 @@ const tools = [
     url: 'https://zhutix.com/'
   },
   {
-    id: '34',
+    id: '33',
     icon: 'https://nextjs.org/favicon.ico',
     title: 'Next.js',
     tag: '前端工具',
@@ -278,7 +270,7 @@ const tools = [
     url: 'https://nextjs.org/'
   },
   {
-    id: '35',
+    id: '34',
     icon: 'https://www.4kvm.pro/favicon.ico',
     title: '4K影视美剧',
     tag: '实用工具',
