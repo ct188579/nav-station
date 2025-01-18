@@ -212,7 +212,7 @@ const tools = [
     tag: '实用工具',
     description: '全球最大的代码托管网站',
     url: 'https://github.com/'
-  }
+  },
   {
     id: '27',
     icon: 'https://vercel.com/favicon.ico',
@@ -284,6 +284,14 @@ const tools = [
     tag: '前端工具',
     description: '在react中实现基于节点的UI',
     url: 'https://reactflow.dev'
+  },
+  {
+    id: '36',
+    icon: 'https://leetcode.cn/favicon.ico',
+    title: '力扣（LeetCode）',
+    tag: '后端工具',
+    description: '算法学习刷题网站',
+    url: 'https://leetcode.cn/'
   },
 
 
