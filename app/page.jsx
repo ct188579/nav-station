@@ -293,6 +293,14 @@ const tools = [
     description: '算法学习刷题网站',
     url: 'https://leetcode.cn/'
   },
+  {
+    id: '37',
+    icon: 'https://framerusercontent.com/images/FEF0Xp0qllCZsG1uilpmdZAzD8.png',
+    title: 'React Motion',
+    tag: '前端工具',
+    description: '在React中实现非常丝滑的动画',
+    url: 'https://motion.dev/'
+  },
 
 
 
