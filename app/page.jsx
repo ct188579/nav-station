@@ -450,7 +450,6 @@ export default function Page() {
 
         </div>
 
-        {/* <a href="https://icp.gov.moe/?keyword=20250052" target="_blank">萌ICP备20250052号</a>ß */}
 
         <footer className="bg-gray-100 dark:bg-gray-800 py-4 mt-12">
           <div className="flex justify-center items-center text-sm text-gray-600 dark:text-gray-400">
