@@ -300,6 +300,22 @@ const tools = [
     tag: '前端工具',
     description: '在React中实现非常丝滑的动画',
     url: 'https://motion.dev/'
+  },,
+  {
+    id: '38',
+    icon: 'https://obs.gduamoe.com/upload/site_ico/20240624-1/6a5d6bac72b551e3d1fdf9e48c1876d7_180x180.png',
+    title: '追剧影视',
+    tag: '实用工具',
+    description: '免费在线播放高清影视',
+    url: 'https://zjuys.com/'
+  },,
+  {
+    id: '39',
+    icon: 'https://excalidraw.com/favicon-32x32.png',
+    title: 'Excalidraw',
+    tag: '实用工具',
+    description: '免费且功能强大的在线白板',
+    url: 'https://excalidraw.com/'
   },
 
 
